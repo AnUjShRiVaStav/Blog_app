@@ -40,7 +40,7 @@ function Home(){
                   </button>  
          )}
          onSuccess = {login}
-         onFailure = {login}
+         onFailure = {' '}
          isSignedIn = {true}
         //  cookiePolicy = {'single_host_origine'}
           />
